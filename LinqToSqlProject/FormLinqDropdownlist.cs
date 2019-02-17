@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LinqToSqlProject
 {
-    public partial class Form5 : Form
+    public partial class FormLinqDropdownlist : Form
     {
-        public Form5()
+        public FormLinqDropdownlist()
         {
             InitializeComponent();
         }

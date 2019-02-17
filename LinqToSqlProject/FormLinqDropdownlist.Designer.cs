@@ -1,6 +1,6 @@
 ﻿namespace LinqToSqlProject
 {
-    partial class Form5
+    partial class FormLinqDropdownlist
     {
         /// <summary>
         /// Required designer variable.

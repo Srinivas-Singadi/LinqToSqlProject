@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace LinqToSqlProject
 {
-    public partial class Form2 : Form
+    public partial class EmployeDetails : Form
     {
 
         CompanyBDDataContext dc;
         List<Employee> Emp = new List<Employee>();
         int rno = 0;
-        public Form2()
+        public EmployeDetails()
         {
             InitializeComponent();
         }

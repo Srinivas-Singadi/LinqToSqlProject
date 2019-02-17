@@ -1,6 +1,6 @@
 ﻿namespace LinqToSqlProject
 {
-    partial class Form3
+    partial class FormToInsertUDel
     {
         /// <summary>
         /// Required designer variable.

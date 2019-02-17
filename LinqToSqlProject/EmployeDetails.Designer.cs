@@ -1,6 +1,6 @@
 ﻿namespace LinqToSqlProject
 {
-    partial class Form2
+    partial class EmployeDetails
     {
         /// <summary>
         /// Required designer variable.

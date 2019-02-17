@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace LinqToSqlProject
 {
-    public partial class Form3 : Form
+    public partial class FormToInsertUDel : Form
     {
         CompanyBDDataContext dc; 
-        public Form3()
+        public FormToInsertUDel()
         {
             InitializeComponent();
         }
